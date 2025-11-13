@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      arushim
 HostName                       big01.seas.upenn.edu
-ProcessIdentifier              27715
-ProcessCreationTime_UTC        1762996996
-ProcessCreationTime_Readable   Wed Nov 12 20:23:16 2025 EST
+ProcessIdentifier              9440
+ProcessCreationTime_UTC        1762999451
+ProcessCreationTime_Readable   Wed Nov 12 21:04:11 2025 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /lcars/home/a/arushim/cadenceGPDK/rca/8_bit_adder_test/schematic/sch.oa.cdslck
-TimeEditLocked                 Wed Nov 12 20:48:06 2025 EST
+TimeEditLocked                 Wed Nov 12 21:04:33 2025 EST
